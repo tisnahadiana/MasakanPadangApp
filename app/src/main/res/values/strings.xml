@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">Masakan Padang App</string>
+
+    <string name="food_name">Nama Makanan</string>
+    <string name="description">Deskripsi</string>
+
+    <string-array name="data_name">
+        <item>Rendang</item>
+        <item>Ayam Pop</item>
+        <item>Ayam Bakar Padang</item>
+        <item>Kalio</item>
+        <item>Telur Dadar Padang</item>
+        <item>Sayur Nangka</item>
+        <item>Dendeng Batokok</item>
+        <item>Gulai Ikan</item>
+        <item>Paru Goreng</item>
+        <item>Perkedel</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Rendang adalah hidangan tradisional dari kota Padang, Sumatera Barat, Indonesia. Hidangan ini terdiri dari potongan daging sapi yang dimasak dalam bumbu rempah-rempah kering dan santan kelapa yang kental hingga bumbu meresap dan daging menjadi empuk. Rendang biasanya dimakan dengan nasi putih dan pelengkap seperti telur rebus, kerupuk, atau sayur lodeh.</item>
+        <item>Ayam Pop adalah hidangan khas dari kota Padang, Sumatera Barat, Indonesia yang terbuat dari potongan ayam yang digoreng kering dan disajikan dengan bumbu khas Padang yang pedas dan gurih. Bumbu khas Padang yang digunakan dalam hidangan Ayam Pop terdiri dari rempah-rempah seperti cabai merah, bawang putih, jahe, kunyit, ketumbar, dan serai yang dihaluskan dan dicampur dengan minyak goreng.</item>
+        <item>Ayam Bakar Padang adalah hidangan khas dari kota Padang, Sumatera Barat, Indonesia yang terbuat dari potongan ayam yang dibakar dengan bumbu khas Padang yang pedas dan gurih. Setelah dibakar, ayam bakar biasanya disajikan dengan nasi putih dan pelengkap seperti sambal, irisan timun, dan acar. Hidangan Ayam Bakar ini terkenal dengan rasa yang khas dan pedas yang membuatnya menjadi salah satu hidangan yang populer di Indonesia.  </item>
+        <item>Kalio Padang adalah hidangan khas dari kota Padang, Sumatera Barat, Indonesia yang terbuat dari potongan daging sapi yang dimasak dengan rempah-rempah khas Padang yang kaya akan rasa dan aroma. Dalam pembuatannya, daging sapi yang telah dipotong-potong dimasak dengan bumbu-bumbu seperti cabai merah, bawang putih, kunyit, ketumbar, serai, daun jeruk, dan santan kelapa hingga bumbu meresap ke dalam daging.</item>
+        <item>Telur dadar Padang adalah masakan Indonesia yang terbuat dari telur yang dikocok dengan bumbu rempah khas Padang seperti cabai, bawang merah, bawang putih, kemiri, kunyit, dan lain-lain. Biasanya telur dadar Padang disajikan dengan nasi dan sambal lado mudo (sambal khas Padang yang terbuat dari cabai hijau). Telur dadar Padang termasuk ke dalam masakan khas Sumatera Barat, dan sangat populer di seluruh Indonesia.</item>
+        <item>Sayur nangka adalah makanan wajib yang harus ada di nasi Padang. Orang-orang bahkan bilang, sayur nangka adalah cita rasa atau ciri khas dari nasi Padang. Sayur ini menggunakan nangka muda dengan bumbu gulai yang gurih.  terbuat dari buah nangka yang masih muda dan dipotong-potong kecil kemudian dimasak dengan berbagai bumbu rempah khas Padang seperti cabai merah, bawang merah, bawang putih, lengkuas, daun salam, dan serai.</item>
+        <item>Dendeng Batokok terbuat dari daging sapi atau kerbau yang dipotong tipis-tipis, kemudian dijemur dan digoreng kering dengan minyak goreng. Daging yang digunakan biasanya adalah daging bagian paha atau sandung lamur, yang memiliki serat yang cukup kuat sehingga setelah dipotong tipis dan dijemur, dendeng Batokok ini menjadi cukup kenyal. Setelah dijemur, dendeng Batokok kemudian digoreng dalam minyak goreng panas hingga kering dan renyah. Hidangan ini biasanya disajikan dengan nasi putih dan sambal lado, serta sering menjadi makanan ringan atau camilan yang populer di Indonesia. </item>
+        <item>Sajian gulai ikan Padang yang biasa digunakan adalah ikan kakap, ikan patin, ikan tenggiri kerapu hingga ikan mas. Kuah gulainya kental dan gurih dengan rasa rempah yang begitu kaya. Kebanyakan orang menyukai gulai kepala ikan kakap Padang yang memiliki daging tebal, enak, dan lembut. Ikan olahan Padang pun terasa segar karena dilumuri jeruk nipis sebelum dimasak. Salah satu menu nasi Padang yang harus dicoba.</item>
+        <item>Paru goreng biasanya disajikan sebagai lauk makan bersama nasi putih dan sayuran seperti lalapan, mentimun, atau tomat. Hidangan ini cukup populer di Indonesia, terutama di daerah Sumatera, Jawa, dan Sulawesi. Paru sapi mengandung protein dan nutrisi penting lainnya, sehingga dapat menjadi sumber protein yang baik dalam menu sehari-hari.</item>
+        <item>Perkedel adalah salah satu hidangan khas Indonesia yang terbuat dari kentang yang dihaluskan, dicampur dengan bumbu-bumbu seperti bawang putih, garam, merica, daun bawang, dan telur. Adonan kentang kemudian dibentuk bulat pipih atau oval, kemudian digoreng dalam minyak panas hingga matang dan kecoklatan.</item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/rendang</item>
+        <item>@drawable/ayampop</item>
+        <item>@drawable/ayambakar</item>
+        <item>@drawable/kailo</item>
+        <item>@drawable/telur_dadar_padang</item>
+        <item>@drawable/sayur_nangka</item>
+        <item>@drawable/dendeng_batokok</item>
+        <item>@drawable/gulai_ikan</item>
+        <item>@drawable/paru_goreng</item>
+        <item>@drawable/perkedel</item>
+    </integer-array>
+
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="about">About</string>
+    <string name="masakan_padang">Masakan Padang</string>
+    <string name="title">Title</string>
+
+</resources>
